@@ -8,7 +8,7 @@ This connectivity facilitates access to enterprise data and business functions t
 
 >For example:
 
-<<VIDEO>>
+![SkyGiraffe applications on Slack] (https://player.vimeo.com/video/179363748?quality=1080p)
 
 ### What do I need to know about the SkyGiraffe platform to get started?
 
