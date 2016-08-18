@@ -49,7 +49,7 @@ The result will look something like this:
 
 ![SkyGiraffe applications on Slack] (https://download.skygiraffe.com/publicImages/sg_slack_view.png)
 
-5. You can start clicking on these buttons to carry on the with the workflow. 
+You can start clicking on these buttons to carry on the with the workflow. 
 
 
 ###Sounds good but how do I get started with my own deployment?
