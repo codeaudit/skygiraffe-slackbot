@@ -22,7 +22,7 @@ Think of SkyGiraffe as a **black-box enterprise data connector** that enables th
 * Please email support@skygiraffe.com to receive a link to SkyGiraffe Studio. You must have Windows to install the Studio. 
 * Follow the installer to properly install the Studio (5 min).  
 * Log in the Studio and add your first data source (further instructions here). 
-* You can start with a test data source to start developing your Slackbots. Eventually, this will be your actual data source, but to get started, you can use Google Sheets as a test. You can mock up some data there and connect to it via our generic REST API for Google sheets found here (github link for google sheets generic REST API code). 
+* You can start with a test data source to start developing your Slackbots. Eventually, this will be your actual data source, but to get started, you can use Google Sheets as a test. You can mock up some data there and connect to it via our generic REST API for Google sheets found here - https://github.com/skygiraffe/gsheets-sg-rest-datasource  
 * Once you have completed the above 2 steps, you can create your first SkyGiraffe App.
 * You can test your app by downloading the SkyGiraffe app from the Apple/Google store and logging in with the username/password that you used to set up the studio.
 	* [iOS app](https://itunes.apple.com/us/app/skygiraffe/id716844831?mt=8)
