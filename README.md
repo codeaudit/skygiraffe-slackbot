@@ -51,8 +51,8 @@ You are now ready to test. The sequence of steps for testing will assume your sl
 The result will look something like this:
 
 ![SkyGiraffe applications on Slack] (path)
-
 5. You can start clicking on these buttons to carry on the with the workflow. 
+
 
 ###Sounds good but how do I get started with my own deployment?
 
