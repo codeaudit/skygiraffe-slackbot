@@ -7,8 +7,7 @@ SkyGiraffe’s Slackbot allows you to interact with our REST Endpoint directly t
 This connectivity facilitates access to enterprise data and business functions through the Slack interface in a completely secure manner. A few use cases as shown in the video below illustrate both the simplicity and wide scope of functionality that can be exposed on Slack with this SkyGiraffe bot.
 
 >For example:
-
-![SkyGiraffe applications on Slack] (https://player.vimeo.com/video/179363748?quality=1080p)
+[![](https://download.skygiraffe.com/publicImages/sg_slack_video.png)](https://player.vimeo.com/video/179363748?quality=1080p)
 
 ### What do I need to know about the SkyGiraffe platform to get started?
 
