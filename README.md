@@ -14,7 +14,7 @@ This connectivity facilitates access to enterprise data and business functions t
 
 Think of SkyGiraffe as a **black-box enterprise data connector** that enables the following:
 
-* Enterprise Authentication: Allows you have a single endpoint that integrates with enterprise Identity providers such as AD, ADFS, Okta, and other custom providers while passing on permissions for on-prem and cloud enterprise data sources. 
+* Enterprise Authentication: Allows you have a single endpoint that integrates with enterprise Identity providers such as AD, ADFS and other custom providers while passing on permissions for on-prem and cloud enterprise data sources. 
 * Data Connectivity: Pulls and updates data from backend systems, e.g., Oracle, SAP, Salesforce, MSSQL, REST APIs, Office 365, Google apps and many other systems. 
 * Create Applications: Build simple and complex workflows that involve one or more systems and enables read and write operations with the SkyGiraffe studio. 
 
