@@ -1739,8 +1739,8 @@ public class GenericWorkFlowAsyncService {
      * Get slack user id, access token, team name and team id from slack access token response.
      * Cache these details in Redis. Set suid and email as request attributes for login page if needed.
      *
-     * @param tokenResponse Sample token response - {"ok":true,"access_token":"xoxp-41494693205-41492575968-55207325185-e3dc22a5c8","scope":"identify,commands",
-     *                      "user_id":"U17EGGXUG","team_name":"SGbotsDemo","team_id":"T17EJLD61"}
+     * @param tokenResponse Sample token response - {"ok":true,"access_token":"value","scope":"identify,commands",
+     *                      "user_id":"id","team_name":"name","team_id":"id"}
      * @param req
      * @throws IOException
      */
