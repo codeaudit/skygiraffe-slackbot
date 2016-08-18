@@ -24,10 +24,7 @@ Think of SkyGiraffe as a **black-box enterprise data connector** that enables th
 * Follow the installer to properly install the Studio (5 min).  
 * Log in the Studio and add your first data source (further instructions here). 
 * You can start with a test data source to start developing your Slackbots. Eventually, this will be your actual data source, but to get started, you can use Google Sheets as a test. You can mock up some data there and connect to it via our generic REST API for Google sheets found here (github link for google sheets generic REST API code). 
-* Once you have completed the above 2 steps, please see this video below to create your first SkyGiraffe app. 
-
-<<VIDEO>>
-
+* Once you have completed the above 2 steps, you can create your first SkyGiraffe App.
 * You can test your app by downloading the SkyGiraffe app from the Apple/Google store and logging in with the username/password that you used to set up the studio.
 	* [iOS app](https://itunes.apple.com/us/app/skygiraffe/id716844831?mt=8)
 	* [Android app](https://play.google.com/store/apps/details?id=com.skygiraffe.operationaldata&hl=en) 
@@ -37,8 +34,8 @@ Think of SkyGiraffe as a **black-box enterprise data connector** that enables th
 Cool. Here are the steps for that.
 
 * Go https://api.slack.com/apps/new and enter the required information.  
-* Go to ‘App Credentials’ and enter the redirect url - https:/slack2.skygiraffe.com/ 
-* Go to Interactive Messages and provide the same URL as above:
+* Go to ‘App Credentials’ and enter the redirect url - https://slack2.skygiraffe.com/skyg/ 
+* Go to Interactive Messages and provide the same URL as above.
 * Next, go to slash commands and enter details. You can choose any slash command that you like, for example, “/mysg”. But make sure the redirect URL is the same as in the above steps.
 
 You are now ready to test. The sequence of steps for testing will assume your slash command is called “/mysg”.
@@ -50,7 +47,7 @@ You are now ready to test. The sequence of steps for testing will assume your sl
 
 The result will look something like this:
 
-![SkyGiraffe applications on Slack] (path)
+![SkyGiraffe applications on Slack] (https://download.skygiraffe.com/publicImages/sg_slack_view.png)
 5. You can start clicking on these buttons to carry on the with the workflow. 
 
 
