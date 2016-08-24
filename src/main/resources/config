@@ -1,6 +1,6 @@
 ##Environment based properties
 SLACK_CLIENT_ID_DEV=66021067911.66018007110
-SLACK_CLIENT_SECRET_DEV=90e2921a96e7993c0d73f8b8c24e03ad
+SLACK_CLIENT_SECRET_DEV=##############################
 SLACK_AUTH_URL_DEV=https://skygiraffe-group.slack.com/oauth/reflow?client_id=66021067911.66018007110&scope=team:read+users.profile:read+commands
 REDIS_HOST_DEV=127.0.0.1
 REDIS_PORT_DEV=6379
